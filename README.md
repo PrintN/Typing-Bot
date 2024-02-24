@@ -1,5 +1,5 @@
 # Monkeytype Cheat
-<video src=""></video>
+<video src="https://github.com/PrintN/Monkeytype-Cheat/assets/127101769/fc6dfd3e-2b11-4a2f-bb4b-d458cc52e6e1"></video>
 
 ## Description
 Just a simple cheat for [monkeytype.com](https://monkeytype.com) for educational purposes only 💀 It simulates human typing behavior, allowing you to set the typing speed in WPM and a percentage of human-like errors.
