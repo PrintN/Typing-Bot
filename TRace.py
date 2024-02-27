@@ -14,7 +14,8 @@ class TyperacerBot:
         self.error_rate = 0
 
     def open_game_window(self):
-        self.driver = webdriver.Chrome(executable_path=r"[PUT YOUR PATH TO THE DRIVER HERE]/chromedriver.exe")
+        chrome_options = webdriver.ChromeOptions()
+        self.driver = webdriver.Chrome(options=chrome_options)       
         self.driver.get("https://monkeytype.com")
 
     def initialize_driver(self):
