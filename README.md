@@ -14,8 +14,7 @@ Just a simple cheat for [monkeytype.com](https://monkeytype.com) for educational
 1. Install Python if you haven't already. You can download it from [python.org](https://www.python.org/downloads/).
 2. Clone or download this repository to your local machine.
 3. Install the required Python packages using pip: `pip install -r requirements.txt`
-4. Make sure you have the Chrome WebDriver installed and in your system PATH. You can download it from [chromedriver.chromium.org](https://chromedriver.chromium.org/).
-5. Edit the TRace.py file and replace [PUT YOUR PATH TO THE DRIVER HERE] with your full path to your chromedriver. 
+4. Make sure you have the Chrome installed in order for selenium to work
 
 ## Usage
 1. Run the TRace.py script: `python TRace.py`
