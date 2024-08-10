@@ -1,3 +1,5 @@
 keyboard
 wxpython
 selenium
+webdriver-manager
+beautifulsoup4
