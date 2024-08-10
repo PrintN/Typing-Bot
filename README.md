@@ -1,5 +1,6 @@
 # Typing Bot
 ![Demo](demo.png)
+#### ⚠️ Disclaimer: This material is for educational purposes only. Cheating is not condoned, and it should never be used to gain an unfair advantage. ⚠️
 
 ## Description
 A simple typing bot for [monkeytype.com](https://monkeytype.com) & [typeracer.com](https://play.typeracer.com/). It simulates human typing behavior, allowing you to set the typing speed in WPM and a percentage of errors.
@@ -22,3 +23,6 @@ A simple typing bot for [monkeytype.com](https://monkeytype.com) & [typeracer.co
 2. Enter the desired Words Per Minute (WPM) and Human Error Rate (%) in the input fields.
 3. Click the "Start Typing" button when you've entered a game and it will start start typing.
 4. To stop typing, click the "Stop Typing" button.
+
+## License
+This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for details.
